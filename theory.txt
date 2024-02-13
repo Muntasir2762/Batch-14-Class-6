@@ -1,0 +1,7 @@
+
+
+========Basic Structure======
+
+1. Header
+2. Body (Content)
+3. Footer
